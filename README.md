@@ -1,4 +1,3 @@
-## sridhar g(212223060271)
 # Ex No: 01 - Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools
 
 ## Aim
@@ -43,21 +42,24 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 #### 2. Schematic of CMOS Inverter:
 
-  <img width="1920" height="1080" alt="Screenshot 2025-09-05 170214" src="https://github.com/user-attachments/assets/0928356f-eb75-4a05-9d63-183824e3d47a" />
+   ![vlsi1](https://github.com/user-attachments/assets/d03a32c5-d80b-400f-9d9b-9e2d7c0241a0)
 
 
 #### 3. Transient Response Setup:
 
-<img width="406" height="484" alt="484491758-99f3fca1-b94c-4470-ac8b-1556dd55028c" src="https://github.com/user-attachments/assets/1992316b-c1b0-4998-89c8-46676fd3a68e" />
+![image](https://github.com/user-attachments/assets/ecdf8ecc-5dfe-404d-ba08-85b1982881cf)
+
+<img width="855" height="631" alt="Screenshot 2025-09-26 151230" src="https://github.com/user-attachments/assets/6c3567a8-4d22-4de8-a074-416a3057326b" />
 
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-05 170916" src="https://github.com/user-attachments/assets/b637035a-df29-46de-bbe4-69b94fcf1f67" />
 
 
 
 ## Output
 #### 1.Transient Analysis Output
-<img width="1920" height="1080" alt="Screenshot 2025-09-05 171105" src="https://github.com/user-attachments/assets/492049fe-f3b4-4615-9762-abc8366e9bcb" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-26 151051" src="https://github.com/user-attachments/assets/dcd4b8f4-627c-4526-9b04-abac50276ffa" />
 
 
 
@@ -66,6 +68,7 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
 2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
 3.	The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
+
 
 
 
